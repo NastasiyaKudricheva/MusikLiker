@@ -1,0 +1,34 @@
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\obj\x86\Debug\MostActiveFriend.csprojResolveAssemblyReference.cache
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\obj\x86\Debug\MostActiveFriend.Properties.Resources.resources
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\obj\x86\Debug\MostActiveFriend.csproj.GenerateResource.Cache
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\MostActiveFriend.exe
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\MostActiveFriend.pdb
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\obj\x86\Debug\MostActiveFriend.exe
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\obj\x86\Debug\MostActiveFriend.pdb
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\obj\x86\Debug\MostActiveFriend.Form1.resources
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\obj\x86\Debug\MostActiveFriend.Form2.resources
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\MostActiveFriend.exe.config
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\System.Web.Http.dll
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\System.Net.Http.dll
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\System.Web.Http.xml
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\System.Net.Http.xml
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\MostActiveFriend\bin\Debug\System.Net.Http.Formatting.xml
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\Newtonsoft.Json.dll
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\System.Web.Http.dll
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\System.Net.Http.dll
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\System.Net.Http.Formatting.dll
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\System.Web.Http.xml
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\System.Net.Http.xml
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\System.Net.Http.Formatting.xml
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\obj\x86\Debug\MostActiveFriend.csprojResolveAssemblyReference.cache
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\obj\x86\Debug\MostActiveFriend.Form1.resources
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\obj\x86\Debug\MostActiveFriend.Form2.resources
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\obj\x86\Debug\MostActiveFriend.csproj.GenerateResource.Cache
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\MusicLiker.exe.config
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\obj\x86\Debug\MusicLiker.Properties.Resources.resources
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\MusicLiker.exe
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\bin\Debug\MusicLiker.pdb
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\obj\x86\Debug\MusicLiker.exe
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\MostActiveFriend\obj\x86\Debug\MusicLiker.pdb

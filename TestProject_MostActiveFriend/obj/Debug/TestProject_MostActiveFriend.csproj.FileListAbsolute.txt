@@ -1,0 +1,20 @@
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\bin\Debug\TestProject_MostActiveFriend.dll
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\bin\Debug\TestProject_MostActiveFriend.pdb
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\bin\Debug\MostActiveFriend.exe
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\bin\Debug\MostActiveFriend.pdb
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.csprojResolveAssemblyReference.cache
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.Properties.Resources.resources
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.csproj.GenerateResource.Cache
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.dll
+C:\Users\De Man\Documents\Visual Studio 2010\Projects\MostActiveFriend\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.pdb
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\bin\Debug\TestProject_MostActiveFriend.dll
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\bin\Debug\TestProject_MostActiveFriend.pdb
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\bin\Debug\MostActiveFriend.exe
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\bin\Debug\Newtonsoft.Json.dll
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\bin\Debug\MostActiveFriend.pdb
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.csprojResolveAssemblyReference.cache
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.Properties.Resources.resources
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.csproj.GenerateResource.Cache
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.dll
+D:\УЧЕБА\4 курс\MostActiveFriend1-master\TestProject_MostActiveFriend\obj\Debug\TestProject_MostActiveFriend.pdb
